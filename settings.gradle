@@ -1,0 +1,2 @@
+rootProject.name='RecyclerCalendar_dia'
+include ':app'
